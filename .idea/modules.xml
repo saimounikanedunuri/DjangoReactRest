@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/College_react.iml" filepath="$PROJECT_DIR$/.idea/College_react.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/todo_api.iml" filepath="$PROJECT_DIR$/.idea/todo_api.iml" />
+>>>>>>> 3add2049192533861fb77c4210d505100e06f69c
     </modules>
   </component>
 </project>
